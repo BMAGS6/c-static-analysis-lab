@@ -1,0 +1,19 @@
+# Windows / Visual Studio
+*.exe
+*.obj
+*.pdb
+*.ilk
+*.idb
+*.user
+.vs/
+
+# Unix and build artifacts
+*.o
+*.a
+*.so
+*.out
+build/
+cmake-build-*/
+
+# Local scratch
+*.tmp
